@@ -1,0 +1,59 @@
+/* h2:hover {
+  color: red;
+} */
+/* h2[class=subtitle] {
+  color: blue;
+
+} */
+#services {
+  color: green;
+}
+/* li:only-child{
+  color: purple; 
+} */
+td:only-child {
+  color: purple;
+}
+/* #linkedin-link:link {
+ color: blue;
+}
+#linkedin-link:visited { 
+ color:red;
+} */
+
+h2 + a {
+  color: purple;
+}
+
+textarea ~ button {
+  color :purple;
+}
+ul > li {
+  color: red;
+} 
+/* ul > li direct chil only  */
+
+/* ul li {
+  color : green;
+/* } */ All childs of ul */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
